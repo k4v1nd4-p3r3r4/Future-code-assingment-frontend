@@ -19,13 +19,8 @@ This is a React frontend for a Product Management application. It features user 
 
 ### Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo/frontend
-   ```
 
-2. **Install dependencies:**
+1. **Install dependencies:**
    ```sh
    npm install
    ```
@@ -34,7 +29,7 @@ This is a React frontend for a Product Management application. It features user 
    yarn
    ```
 
-3. **Start the development server:**
+2. **Start the development server:**
    ```sh
    npm run dev
    ```
@@ -43,7 +38,7 @@ This is a React frontend for a Product Management application. It features user 
    yarn dev
    ```
 
-4. **Open your browser:**
+3. **Open your browser:**
    ```
    http://localhost:5173
    ```
